@@ -23,6 +23,7 @@ function Contact() {
       console.log("Success", res);
     }
   };
+
   return (
     <section
       id="contact"
