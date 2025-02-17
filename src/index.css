@@ -19,6 +19,7 @@ body {
   font-family: "Arial Narrow Bold", sans-serif;
   background: #0f0719;
   color: #f3f4f6;
+  scroll-behavior: smouth;
 }
 
 @layer utilities {
